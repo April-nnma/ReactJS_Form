@@ -42,7 +42,7 @@ const TableForm = ({ students, searchString, dispatch }) => {
   }
 
   return (
-    <div className="container">
+    <div className="container" style={{ textAlign: "center" }}>
       <div className="row mb-3">
         <div className="col">
           <div>
